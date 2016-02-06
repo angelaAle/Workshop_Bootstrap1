@@ -1,0 +1,20 @@
+<div class="container">
+<div class="row">
+            <div class="col-md-4">
+               <!-- Picture: <a href="#"><img class="img-responsive img-circle" src="images/feat1.jpg"></a> -->
+              <h3>Project 1</h3>
+              <p>Here is my project! I did this for....</p>
+              <a href="#" class="btn btn-success">Click to view more</a>
+            </div>
+            <div class="col-md-4">
+            <h3>Project 2</h3>
+              <p>Here is my project! I did this for....</p>
+              <a href="#" class="btn btn-success">Click to view more</a>
+            </div>
+            <div class="col-md-4">
+              <h3>Project 3</h3>
+              <p>Here is my project! I did this for....</p>
+              <a href="#" class="btn btn-success">Click to view more</a>
+            </div>
+          </div>
+        </div>
