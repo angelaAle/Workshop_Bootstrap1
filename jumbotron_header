@@ -1,0 +1,7 @@
+<div class="container-fluid">
+        <div class="jumbotron">
+            <h1>Welcome to this website!</h1>
+            <p>Browse around..</p>
+            <a class="btn btn-primary btn-lg">Contact Us!</a>
+        </div>
+  </div>
