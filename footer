@@ -1,0 +1,17 @@
+<hr>
+<footer>
+          <div class="container">
+          <div class="row">
+            <div class="col-md-4">&copy; 2016 Workshop</div>
+            <div class="col-md-4">
+              <ul class="nav nav-pills">
+                
+                <li><a href="#">Find out more</a></li>
+	        </ul>
+            </div>
+            <div class="col-md-4">
+              <h3 class="text-right">Workshop</h3>
+            </div>
+          </div>
+          </div>
+        </footer>
